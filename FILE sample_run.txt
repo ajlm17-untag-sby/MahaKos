@@ -1,0 +1,248 @@
+(info) data/pengguna.csv tidak ditemukan. Akan dibuat otomatis saat menyimpan.
+(info) data/kegiatan.csv tidak ditemukan. Akan dibuat otomatis saat menyimpan.
+(info) data/diary.txt tidak ditemukan. Akan dibuat otomatis saat menyimpan.
+(info) data/jadwal_kuliah.csv tidak ditemukan. Akan dibuat otomatis saat menyimpan.
+(info) data/tugas.csv tidak ditemukan. Akan dibuat otomatis saat menyimpan.
+(info) data/keuangan.csv tidak ditemukan. Akan dibuat otomatis saat menyimpan.
+
+=== SELAMAT DATANG DI MAHAKOS ===
+1. Login
+2. Daftar
+3. Keluar
+Pilih menu:
+
+
+=== LOGIN ===
+1. Login sebagai Admin
+2. Login sebagai Pengguna Biasa
+Pilih:
+
+=== FORM PENDAFTARAN ===
+Buat Username: ajol
+Buat Password: 123456
+Nama Lengkap: Aleksander Jonias Lololuan
+NIM: 1482400100
+Pendaftaran berhasil! Silakan login.
+Data berhasil disimpan ke data/pengguna.csv
+
+
+
+
+
+=== LOGIN ===
+1. Login sebagai Admin
+2. Login sebagai Pengguna Biasa
+Pilih:
+
+
+Username: admin1
+Password: admin123
+
+Selamat datang, admin1 (Admin)
+
+=== MENU ADMIN ===
+1. Lihat Semua Pengguna
+2. Ubah Nama Pengguna
+3. Reset Password
+4. Hapus Pengguna
+5. Kembali
+Pilih menu:
+
+Username: ajol
+Password: 123456
+
+Selamat datang, Aleksander Jonias Lololuan!
+(info) data/kegiatan_ajol.csv tidak ditemukan. Akan dibuat otomatis saat menyimpan.
+(info) data/diary_ajol.txt tidak ditemukan. Akan dibuat otomatis saat menyimpan.
+(info) data/jadwal_ajol.csv tidak ditemukan. Akan dibuat otomatis saat menyimpan.
+(info) data/tugas_ajol.csv tidak ditemukan. Akan dibuat otomatis saat menyimpan.
+(info) data/keuangan_ajol.csv tidak ditemukan. Akan dibuat otomatis saat menyimpan.
+
+=== DASHBOARD ALEKSANDER JONIAS LOLOLUAN ===
+1. Manajemen Kegiatan & Diary
+2. Manajemen Akademik
+3. Manajemen Keuangan
+4. Simpan Semua Data
+5. Logout
+Pilih menu:
+
+
+
+
+
+Selamat datang, Aleksander Jonias Lololuan!
+(info) data/kegiatan_ajol.csv tidak ditemukan. Akan dibuat otomatis saat menyimpan.
+(info) data/diary_ajol.txt tidak ditemukan. Akan dibuat otomatis saat menyimpan.
+(info) data/jadwal_ajol.csv tidak ditemukan. Akan dibuat otomatis saat menyimpan.
+(info) data/tugas_ajol.csv tidak ditemukan. Akan dibuat otomatis saat menyimpan.
+(info) data/keuangan_ajol.csv tidak ditemukan. Akan dibuat otomatis saat menyimpan.
+
+=== DASHBOARD ALEKSANDER JONIAS LOLOLUAN ===
+1. Manajemen Kegiatan & Diary
+2. Manajemen Akademik
+3. Manajemen Keuangan
+4. Simpan Semua Data
+5. Logout
+Pilih menu:
+
+
+=== MENU AKTIVITAS & DIARY ===
+Tanggal sekarang: 2025-07-06 01:28
+1. Lihat Kegiatan
+2. Tambah Kegiatan Baru
+3. Tulis Catatan Harian
+4. Lihat Catatan Diary
+5. Kembali
+Pilih:
+
+=== MENU AKADEMIK ===
+1. Lihat Jadwal Kuliah
+2. Tambah Jadwal Kuliah
+3. Lihat Tugas
+4. Tambah Tugas Baru
+5. Kembali
+Pilih:
+
+=== MENU KEUANGAN ===
+1. Lihat Saldo
+2. Tambah Transaksi
+3. Lihat Riwayat Transaksi
+4. Kembali
+Pilih:
+
+Data berhasil disimpan ke data/pengguna.csv
+🔁 Backup dibuat: backup/pengguna_backup.csv
+Data berhasil disimpan ke data/kegiatan_ajol.csv
+Data berhasil disimpan ke data/diary_ajol.txt
+Data berhasil disimpan ke data/jadwal_ajol.csv
+Data berhasil disimpan ke data/tugas_ajol.csv
+Data berhasil disimpan ke data/keuangan_ajol.csv
+🔁 Backup dibuat: backup/kegiatan_ajol_backup.csv
+🔁 Backup dibuat: backup/diary_ajol_backup.txt
+🔁 Backup dibuat: backup/jadwal_ajol_backup.csv
+🔁 Backup dibuat: backup/tugas_ajol_backup.csv
+🔁 Backup dibuat: backup/keuangan_ajol_backup.csv
+✅ Semua data berhasil disimpan.
+
+=== SELAMAT DATANG DI MAHAKOS ===
+1. Login
+2. Daftar
+3. Keluar
+Pilih menu:
+
+
+
+
+
+=== MENU AKTIVITAS & DIARY ===
+Tanggal sekarang: 2025-07-06 01:28
+1. Lihat Kegiatan
+2. Tambah Kegiatan Baru
+3. Tulis Catatan Harian
+4. Lihat Catatan Diary
+5. Kembali
+Pilih:
+
+Judul: Olahraga Pagi
+Jam Mulai (HH:MM): 06:00
+Jam Selesai (HH:MM): 07:00
+Keterangan: Olahraga pagi sebelum pergi ke kampus
+✅ Kegiatan ditambahkan.
+Data berhasil disimpan ke data/kegiatan.csv
+
+1. Olahraga Pagi | 06:00 - 07:00 | Olahraga pagi sebelum pergi ke kampus | 2025-07-06
+
+Isi catatan: Hay, perkenalkan nama Saya Aleksander Jonias Lololuan
+✅ Catatan Diary ditambahkan.
+Data berhasil disimpan ke data/diary.txt
+
+1. [2025-07-06] Hay, perkenalkan nama Saya Aleksander Jonias Lololuan
+
+
+
+
+
+=== MENU AKADEMIK ===
+1. Lihat Jadwal Kuliah
+2. Tambah Jadwal Kuliah
+3. Lihat Tugas
+4. Tambah Tugas Baru
+5. Kembali
+Pilih:
+
+Kode MK: 14823372
+Nama MK: PEMROGRAMAN BERORIENTASI OBJEK
+Hari: Selasa
+Jam Mulai (HH:MM): 09:30
+Jam Selesai (HH:MM): 11:10
+Ruang: I302
+✅ Jadwal ditambahkan.
+Data berhasil disimpan ke data/jadwal_kuliah.csv
+
+|----------------------------------------------------------------------------------------------|
+| No | Kode        | Mata Kuliah                            | Hari     | Jam M - Jam S | Ruang |
+|----------------------------------------------------------------------------------------------|
+| 1  | 14823372    | PEMROGRAMAN BERORIENTASI OBJEK         | Selasa   | 09:30 - 11:10 | I302  |
+|----------------------------------------------------------------------------------------------|
+
+Kode MK: 14823372
+Nama MK: PEMROGRAMAN BERORIENTASI OBJEK
+Keterangan Tugas: Tugas Besar Evaluasi Akhir Semester
+Deadline (YYYY-MM-DD): 2025-07-08
+✅ Tugas ditambahkan.
+Data berhasil disimpan ke data/tugas.csv
+
+1. 14823372 | PEMROGRAMAN BERORIENTASI OBJEK | Dibuat: 2025-07-06 | Deadline: 2025-07-08 | Tugas Besar Evaluasi Akhir Semester
+
+
+
+
+
+=== MENU KEUANGAN ===
+1. Lihat Saldo
+2. Tambah Transaksi
+3. Lihat Riwayat Transaksi
+4. Kembali
+Pilih:
+
+Jenis (pemasukan/pengeluaran): pemasukan
+Nominal (angka saja): 1100000
+Keterangan: Uang Kuliah
+Transaksi berhasil ditambahkan.
+Data berhasil disimpan ke data/keuangan.csv
+✅ Transaksi berhasil ditambahkan.
+
+Saldo saat ini: Rp 1100000
+
+Jenis (pemasukan/pengeluaran): pemasukan
+Nominal (angka saja): 1500000
+Keterangan: Uang Kos Dan Uang Jajan
+Transaksi berhasil ditambahkan.
+Data berhasil disimpan ke data/keuangan.csv
+✅ Transaksi berhasil ditambahkan.
+
+Saldo saat ini: Rp 2600000
+
+Jenis (pemasukan/pengeluaran): pengeluaran
+Nominal (angka saja): 1100000
+Keterangan: Bayar Uang Kuliah
+Transaksi berhasil ditambahkan.
+Data berhasil disimpan ke data/keuangan.csv
+✅ Transaksi berhasil ditambahkan.
+
+Saldo saat ini: Rp 1500000
+
+Jenis (pemasukan/pengeluaran): pengeluaran
+Nominal (angka saja): 500000
+Keterangan: Bayar Uang Kos 
+Transaksi berhasil ditambahkan.
+Data berhasil disimpan ke data/keuangan.csv
+✅ Transaksi berhasil ditambahkan.
+
+Saldo saat ini: Rp 1000000
+
+=== Riwayat Transaksi ===
+1. 2025-07-06 | 01:57:39 | pemasukan   | Rp1100000 | Uang Kuliah
+2. 2025-07-06 | 02:00:18 | pemasukan   | Rp1500000 | Uang Kos Dan Uang Jajan
+3. 2025-07-06 | 02:01:18 | pengeluaran | Rp1100000 | Bayar Uang Kuliah
+4. 2025-07-06 | 02:05:58 | pengeluaran | Rp500000  | Bayar Uang Kos

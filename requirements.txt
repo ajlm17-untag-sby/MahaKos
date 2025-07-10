@@ -1,0 +1,5 @@
+# requirements.txt
+python >= 3.8
+
+# “Jangan coba jalanin ini di Python 3.7 atau lebih rendah, nanti error.”
+# Program ini membutuhkan Python versi 3.8 atau lebih baru (misalnya 3.9, 3.10, 3.11, dst).
