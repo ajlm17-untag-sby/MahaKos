@@ -37,23 +37,23 @@ python main.py
 
 ```
 MahaKos-Final/
-├── main.py                  ← Entry point aplikasi
-├── modul/                  ← Modul modular untuk fitur utama
+├── main.py                    ← Entry point aplikasi
+├── modul/                     ← Modul modular untuk fitur utama
 │   ├── __init__.py
-│   ├── abstract.py         ← Abstract class (OOP: Abstraction)
-│   ├── aktifitas.py        ← Jadwal kegiatan dan diary
-│   ├── akademik.py         ← Jadwal kuliah dan tugas
-│   ├── auth.py             ← Login, register, akun pengguna
-│   ├── keuangan.py         ← Transaksi keuangan (inheritance)
-│   ├── manajemen_pengguna.py ← Fitur admin
-│   └── utils.py            ← Simpan/muat file, laporan, backup
-├── data/                   ← File data pengguna (.csv / .txt)
-├── backup/                 ← Backup otomatis setiap simpan
-├── laporan/                ← Laporan .txt yang bisa diekspor
-├── .gitignore              ← File/folder yang tidak di-upload
-├── README.md               ← Dokumentasi proyek (ini!)
-├── requirements.txt        ← Jika ada library tambahan
-└── sample_run.txt          ← Contoh hasil run program
+│   ├── abstract.py            ← Abstract class (OOP: Abstraction)
+│   ├── aktifitas.py           ← Jadwal kegiatan dan diary
+│   ├── akademik.py            ← Jadwal kuliah dan tugas
+│   ├── auth.py                ← Login, register, akun pengguna
+│   ├── keuangan.py            ← Transaksi keuangan (inheritance)
+│   ├── manajemen_pengguna.py  ← Fitur admin
+│   └── utils.py               ← Simpan/muat file, laporan, backup
+├── data/                      ← File data pengguna (.csv / .txt)
+├── backup/                    ← Backup otomatis setiap simpan
+├── laporan/                   ← Laporan .txt yang bisa diekspor
+├── .gitignore                 ← File/folder yang tidak di-upload
+├── README.md                  ← Dokumentasi proyek (ini!)
+├── requirements.txt           ← Jika ada library tambahan
+└── sample_run.txt             ← Contoh hasil run program
 ```
 
 ---
